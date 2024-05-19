@@ -6,3 +6,13 @@ let tau = Number(pi) * 2
 
 console.log(`${tau} is ${pi} times two.`)
 */
+
+/*
+//Exercicio 2
+
+let pie: string //the "problem" should be resolved just by specifying the type of data that the let pie should receive, making it impossible to assign a number to it"
+
+pie = "blueberry"
+
+console.log(`i like to eat ${pie}-flavored pie.`)
+*/
