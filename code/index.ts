@@ -16,3 +16,11 @@ pie = "blueberry"
 
 console.log(`i like to eat ${pie}-flavored pie.`)
 */
+/*
+//Exercicio 3
+let isDouglas: boolean //the problem should be resolved adding a value to the boolean let "isDouglas"
+
+isDouglas = false
+
+console.log(`${isDouglas ? "Oh, Hi Douglas" : "Who are u ?"}`)
+*/
