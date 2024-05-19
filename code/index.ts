@@ -1,4 +1,7 @@
 /* 
+
+I'M THE ONE DOING THE COMMENTS, I PREFER TO COMMENT MY CODE IN ENGLISH BECAUSE PORTUGUESE IS RUBISH
+
 //Exercicio 1
 
 let pi = "3.14159" //declared as a string, it can be resolved removing the quotation marks or simply by using the method number that converts a string into a number variable
@@ -51,4 +54,18 @@ const members: number[] = [
 members[0] = Number("12345")
 
 console.log(members)
+*/
+/*
+//Exercicio 5
+//it is resolved by specifying the type of data accepted into the arrays
+const sequence: number[] = Array.from(Array(10).keys())
+const animals: string[] = ["pangolin", "aardvark", "echidna", "binturong"]
+const stringsAndNumbers: (number | string)[] = [1, "one", 2, "two", 3, "three"]
+const allMyArrays: (number | string)[][] = [
+  sequence,
+  animals,
+  stringsAndNumbers,
+]
+
+console.log(allMyArrays)
 */
