@@ -24,3 +24,31 @@ isDouglas = false
 
 console.log(`${isDouglas ? "Oh, Hi Douglas" : "Who are u ?"}`)
 */
+//Exercicio 4
+/*
+const integer: number = 6 //the problem should be resolved by specifying every camp to its right type of data (number), changing the type of data accepted into the array and tranforming the index 0 of the array to be a number, instead of a string
+const float: number = 6.66
+const hex: number = 0xf00d
+const binary: number = 0b1010011010
+const octal: number = 0o744
+const negZero: number = -0
+const actuallyNumber: number = NaN
+const largestNumber: number = Number.MAX_VALUE
+const mostBiglyNumber: number = Infinity
+
+const members: number[] = [
+  integer,
+  float,
+  hex,
+  binary,
+  octal,
+  negZero,
+  actuallyNumber,
+  largestNumber,
+  mostBiglyNumber,
+]
+
+members[0] = Number("12345")
+
+console.log(members)
+*/
