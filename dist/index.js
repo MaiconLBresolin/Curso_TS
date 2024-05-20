@@ -1,4 +1,5 @@
-/* 
+"use strict";
+/*
 
 I'M THE ONE DOING THE COMMENTS, I PREFER TO COMMENT MY CODE IN ENGLISH BECAUSE PORTUGUESE IS RUBISH
 
@@ -9,7 +10,6 @@ let tau = Number(pi) * 2
 
 console.log(`${tau} is ${pi} times two.`)
 */
-
 /*
 //Dia 3 - Exercicio 2
 
@@ -284,3 +284,4 @@ function layEggs(quantity: number, color: string): void {
 
 layEggs(10, "blue")
 */
+//# sourceMappingURL=index.js.map
